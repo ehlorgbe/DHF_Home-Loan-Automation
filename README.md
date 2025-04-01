@@ -1,7 +1,6 @@
-# DHF_Home-Loan-Automation
-# Home Loan Approval Analysis  
+# Dream Housing Finance Home Loan Approval Analysis  
 **Author**: Elliot K. Hlorgbe  
-**Course**: CIS 643-22-FA24 - Advanced Business Analytics  
+ 
 
 ---
 
