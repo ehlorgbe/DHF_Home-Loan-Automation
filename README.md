@@ -7,7 +7,7 @@
 ## 📌 **Project Overview**  
 **Objective**: Analyze loan approval trends for Dream Housing Finance to identify key drivers of loan decisions and support real-time automation of the approval process.  
 **Dataset**: [Home Loan Approval Dataset](https://www.kaggle.com/datasets/prepinstaprime/home-loan-approval) (499 observations, 13 variables).  
-**Tools**: IBM SPSS Statistics, Excel, Kaggle.  
+**Tools**: IBM SPSS Modeler, Python  
 
 ---
 
